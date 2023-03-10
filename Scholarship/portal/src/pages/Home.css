@@ -1,0 +1,122 @@
+
+.title{
+    position: relative;
+    display: inline;
+    text-align: left;
+    bottom: 500px;
+    left: 1000px;
+    
+}
+.homeMain{
+    width: 100vw;
+}
+p{
+    margin: 10px;
+}
+.upBtn{
+    background-color: rgb(207, 112, 78);
+    color: wheat;
+    font-weight: 500 !important;
+    border-radius: 5px;
+    display: inline;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.heroSection1{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.heroPic{
+    max-width: 500px;
+    max-height: 500px;
+}
+.heroAbout>h3{
+    font-size: 2em;
+    margin: 5px 0;
+}
+
+.heroBtn{
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    background-color: orangered;
+    color: white;
+    font-size: 1.5em;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.explore{
+    margin-top: 40px;
+
+}
+
+.exploreHead{
+    text-align: center;
+
+    margin: auto;
+    margin-bottom: 40px;
+}
+.exploreSearch{
+
+    margin: 20px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.exploreInput{
+    width: 300px;
+    height: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border: 1px solid black;
+    border-right: none;
+    outline: none;
+}
+.searchBtn{
+    height: 50px;
+    width: 100px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border: 1px solid orangered;
+    background-color: orangered;
+    color: white;
+    font-size: 1.4em;
+    font-weight: 700;
+
+}
+.pic2{
+    max-width: 95%;
+
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.pic3{
+    max-width: 95%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.pic4{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    width: 80vw;
+}
