@@ -1,0 +1,2 @@
+JWT_TOKEN_SECRET='THISISYASHVARDHANFILEOFDOTENVFORVALIDATION'
+DB_URL = 'mongodb+srv://yash7652:ybig2121@cluster0.gnqwd.mongodb.net/scholarshipDB'
