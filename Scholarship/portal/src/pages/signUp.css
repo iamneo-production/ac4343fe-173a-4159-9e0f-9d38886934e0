@@ -46,3 +46,8 @@ border-bottom:2px solid black ;
     border: none;
     border-radius: 4px;
 }
+
+.formIn:focus{
+    border-bottom: 2px solid black;
+    outline: none;
+}
