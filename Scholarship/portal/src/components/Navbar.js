@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import "./Navbar.css"
 export default function Navbar() {
   return (
@@ -8,8 +9,14 @@ export default function Navbar() {
           ScholarShips
           </div>
           <div className='navBtn'>
-            <div className='signbtn inBtn'>Sign In</div>
-            <div className='signbtn upBtn'>Sign Up</div>
+            
+            <Link className='signbtn inBtn' to="/login">
+            <div>Sign In</div>
+            </Link>
+            <Link className='signbtn upBtn'>
+            <div>Sign Up</div>
+            
+            </Link>
 
             </div>
         </nav>
