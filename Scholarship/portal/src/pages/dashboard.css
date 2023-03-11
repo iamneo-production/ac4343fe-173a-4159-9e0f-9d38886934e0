@@ -1,4 +1,4 @@
-.upper_container{
+/* .upper_container{
     display: flex;
     justify-content: space-between;
 }
@@ -18,11 +18,7 @@
 
 }
 .home{
-    /* position: absolute;
-    width: 153px;
-    height: 13.25px;
-    left: 798px;
-    top: 17.54px; */
+   
     text-decoration: none;
     font-family: 'Inter';
     font-style: normal;
@@ -37,11 +33,7 @@
 
 }
 .about{
-    /* position: absolute;
-    width: 131px;
-    height: 13.25px;
-    left: 951px;
-    top: 17.54px; */
+   
     text-decoration: none;
     font-family: 'Inter';
     font-style: normal;
@@ -56,11 +48,7 @@
 
 }
 .contact{
-    /* position: absolute;
-    width: 149px;
-    height: 13.25px;
-    left: 1116px;
-    top: 17.54px; */
+  
     text-decoration: none;
     font-family: 'Inter';
     font-style: normal;
@@ -75,11 +63,7 @@
 
 }
 .head_line{
-    /* position: absolute;
-    width: 295.21px;
-    height: 33.25px;
-    left: 64.54px;
-    top: 246px; */
+  
     padding-left: 70px;
     font-family: 'Inter';
     font-style: normal;
@@ -100,7 +84,6 @@
     margin-left:100px;
     margin-right: 100px;
     margin-bottom: 50px;
-    /* margin-top: ; */
     border-radius: 2%;
     text-decoration: none;
 }
@@ -108,18 +91,12 @@
     text-decoration: none;
 }
 .navbar {
-    /* position: absolute; */
-    /* width: 1440px; */
-    /* height: 55px; */
-    /* left: 0px; */
-    /* top: 58px; */
+ 
     text-decoration: none;
     background: #FF735C;
         height:40px;
         display: flex;
-        /* justify-content: space-between; */
-        /* padding:10px;  */
-        /* margin:10px; */
+     
 }
 .explore{
     font-family: 'Inter';
@@ -172,4 +149,4 @@
     padding-right: 5px;
 }
 
-
+ */
