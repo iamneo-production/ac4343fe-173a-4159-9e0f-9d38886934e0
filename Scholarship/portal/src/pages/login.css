@@ -26,7 +26,7 @@
 .form{
     background-color: rgb(238, 237, 235);
     width: 600px;
-    height: 700px;
+    height: 600px;
     border-radius: 10px;  
     display: flex;
     flex-direction: column;
@@ -40,10 +40,11 @@
     width: 400px;
     border-radius: 4px;
     padding: 0 10PX;
+    font-size: 1.4em;
 }
 
 .formInput::placeholder{
-    font-size: 1.4em;
+    
     padding: 0 10px;
 }
 .formHead{
